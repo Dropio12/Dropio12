@@ -11,7 +11,8 @@ I've been programming for about 3 years right now. I started my journey by doing
 *   🚀  I'm currently working on [GoogleFlyBetter](http://github.com/Dropio12/GoogleFlyBetter)
 *   🧠  I'm learning Kivy and Rust
 *   🤝  I'm open to collaborating on impossible projects
-*   ⚡  I'm secretly Spiderman... but don't tell anyone else### Skills 
+*   ⚡  I'm secretly Spiderman... but don't tell anyone else
+*  Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -30,10 +31,10 @@ I've been programming for about 3 years right now. I started my journey by doing
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
                     
-                  ### Socials
+Socials
                   
                   
-                <p align="left">
+ <p align="left">
                           
                       <a href="https://discord.com/users/᲼᲼᲼#8966" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
                           

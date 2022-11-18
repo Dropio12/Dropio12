@@ -9,7 +9,7 @@ I've been programming for about 3 years right now. I started my journey by doing
 * 🌍  I'm based in Quebec
 * ✉️  You can contact me at [anass.elhallaoui@gmail.com](mailto:anass.elhallaoui@gmail.com)
 * 🚀  I'm currently working on [GoogleFlyBetter](http://github.com/Dropio12/GoogleFlyBetter)
-* 🧠  I'm learning Kivy and Rust
+* 🧠  I'm learning Rust, Kivy and C++
 * 🤝  I'm open to collaborating on impossible projects
 * ⚡  I'm secretly Spiderman... but don't tell anyone else
 

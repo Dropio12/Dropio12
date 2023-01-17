@@ -8,7 +8,7 @@ I've been programming for about 3 years right now. I started my journey by doing
 
 * 🌍  I'm based in Quebec
 * ✉️  You can contact me through Linked in
-* 🚀  I'm currently working on a quantitative bot that can get 90%+ succesfull trades.
+* 🚀  I'm currently working on a quantitative bot that can get 90%+ succesfull trades and FlightO.
 * 🧠  I'm learning Rust, PostGres and DevOps
 * 🤝  I'm open to collaborating on any quantitative projects
 
@@ -48,6 +48,3 @@ I've been programming for about 3 years right now. I started my journey by doing
 
 <a href="https://github.com/Dropio12" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dropio12&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Dropio12/GoogleFlyBetter" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dropio12&repo=GoogleFlyBetter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />

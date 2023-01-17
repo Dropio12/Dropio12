@@ -1,17 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is DROPIO12
 ==============================================================================================================================================
 
-Cybersecurity and Full-Stack Dev
+Quantitative Finance and Full-Stack Dev
 --------------------------------
 
 I've been programming for about 3 years right now. I started my journey by doing simple plugins on Minecraft. As I've grown to be the man I am today, I've learned multiples languages and libraries to create projects even crazier than the ones before. If you believe a project is impossible to do, I will prove you wrong :)
 
 * 🌍  I'm based in Quebec
 * ✉️  You can contact me through Linked in
-* 🚀  I'm currently working on [GoogleFlyBetter](http://github.com/Dropio12/GoogleFlyBetter)
-* 🧠  I'm learning Rust, Kivy and C++
-* 🤝  I'm open to collaborating on impossible projects
-* ⚡  I'm secretly Spiderman... but don't tell anyone else
+* 🚀  I'm currently working on a quantitative bot that can get 90%+ succesfull trades.
+* 🧠  I'm learning Rust, PostGres and DevOps
+* 🤝  I'm open to collaborating on any quantitative projects
 
 ### Skills
 
@@ -30,14 +29,12 @@ I've been programming for about 3 years right now. I started my journey by doing
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
 
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/᲼᲼᲼#8966" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Dropio12" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/anass-badredinne-el-hallaoui-027a08228/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/᲼᲼᲼#8966" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Dropio12" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 
 ### Badges
 

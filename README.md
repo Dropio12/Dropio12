@@ -1,7 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is DROPIO12
-==============================================================================================================================================
-
-Quantitative Finance and Full-Stack Dev
+================================================================================
+Full-Stack Dev with an interest in math and quantitative finance
 --------------------------------
 
 I've been programming for about 3 years right now. I started my journey by doing simple plugins on Minecraft. As I've grown to be the man I am today, I've learned multiples languages and libraries to create projects even crazier than the ones before. If you believe a project is impossible to do, I will prove you wrong :)

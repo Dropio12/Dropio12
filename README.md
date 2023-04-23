@@ -41,8 +41,4 @@ I've been programming for about 3 years right now. I started my journey by doing
 
 <a href="http://www.github.com/Dropio12"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dropio12&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Dropio12"><img src="[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ashutosh00710&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-" /></a>
-
-<a href="https://github.com/Dropio12" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dropio12&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <br /><br /><br /><br /><br /><br /><br />

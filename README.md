@@ -6,10 +6,10 @@ Full-Stack Dev with an interest in math and finance
 I've been programming for about 3 years right now. I started my journey by doing simple plugins on Minecraft. As I've grown to be the man I am today, I've learned multiples languages and libraries to create projects even crazier than the ones before. If you believe a project is impossible to do, I will prove you wrong :)
 
 * 🌍  I'm based in Quebec
-* ✉️  You can contact me through Linked in.
+* ✉️  You can contact me through LinkedIn.
 * 🚀  I'm currently working on a quantitative bot that can get 90%+ succesfull trades and improving the time complexity of FlightO.
 * 🧠  I'm learning Rust and DevOps
-* 🤝  I'm open to collaborating on any quantitative projects
+* 🤝  I'm open to collaborating on any quantitative projects and TradingView Strategies.
 
 ### Skills
 

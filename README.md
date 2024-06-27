@@ -1,14 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is DROPIO12
-================================================================================
+<p align="left"> <a href="https://discord.com/users/᲼᲼᲼#8966" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Dropio12" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+
+===============================================================================
 Full-Stack Dev with an interest in math and finance
 --------------------------------
 
-I've been programming for about 13 years right now. I started my journey by doing a simple website for my fish and then started doing plugins on Minecraft. As I've grown to be the man I am today, I've learned multiples languages and libraries to create projects even crazier than the ones before. If you believe a project is impossible to do, I will prove you wrong :)
+I've been programming for about 13 years right now. I started my journey by doing a simple website for my fish to present it at a fair. As I've grown, I've learned multiples languages and libraries to create projects even crazier than the ones before. If you believe a project is impossible to do, I will prove you wrong :)
 
-* 🌍  I'm based in Quebec
+* 🌍  I'm based in Canada
 * ✉️  You can contact me through LinkedIn.
 * 🚀  I'm currently working on a Stealth Startup.
-* 🧠  I'm learning Rust and DevOps
+* 🧠  I'm learning Cobalt.
 * 🤝  I'm open to collaborating on any quantitative and blockchain related project.
 
 ### Skills

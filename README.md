@@ -3,9 +3,7 @@ Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 Full-Stack Dev with an interest in complex problems
 --------------------------------
 <p align="middle">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Dropio12&theme=dark)](https://git.io/streak-stats)
-</a>
-<p align="left">
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Dropio12&theme=dark)](https://git.io/streak-stats)<p align="left">
 
 I've been programming for about 13 years right now. I started my journey by doing a simple website for my fish to present it at a fair. As I've grown, I've learned multiples languages and libraries to create projects even crazier than the ones before.
 
